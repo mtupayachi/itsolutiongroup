@@ -338,7 +338,7 @@
 
                   <!-- Card image -->
                   <div class="view overlay">
-                    <img class="card-img-top" src="img/it/gif-1.gif" alt="Diseño Web cusco peru">
+                    <img class="card-img-top" src="img/it/facturacion.jpg" alt="Diseño Web cusco peru">
                     <a href="#!">
                       <div class="mask rgba-white-slight"></div>
                     </a>
@@ -348,7 +348,7 @@
                   <div class="card-body">
 
                     <!-- Title -->
-                    <h4 class="card-title text-center">Diseño Páginas Web</h4>
+                    <h4 class="card-title text-center">Facturación Electrónica</h4>
                     <!-- Text -->
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <!-- Button -->
@@ -367,7 +367,7 @@
 
                   <!-- Card image -->
                   <div class="view overlay">
-                    <img class="card-img-top" src="img/it/gif-4.gif" alt="Desarrollo de sistemas web">
+                    <img class="card-img-top" src="img/it/hosting.jpg" alt="Desarrollo de sistemas web">
                     <a href="#!">
                       <div class="mask rgba-white-slight"></div>
                     </a>
@@ -377,7 +377,7 @@
                   <div class="card-body">
 
                     <!-- Title -->
-                    <h4 class="card-title text-center">Sistemas Web</h4>
+                    <h4 class="card-title text-center">Hosting y Dominios</h4>
                     <!-- Text -->
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <!-- Button -->
@@ -396,7 +396,7 @@
 
                   <!-- Card image -->
                   <div class="view overlay">
-                    <img class="card-img-top" src="img/it/image-13.png" alt="Desarrollo de Aplicaciones Moviles">
+                    <img class="card-img-top" src="img/it/image-1.png" alt="Desarrollo de Aplicaciones Moviles">
                     <a href="#!">
                       <div class="mask rgba-white-slight"></div>
                     </a>
@@ -406,7 +406,7 @@
                   <div class="card-body">
 
                     <!-- Title -->
-                    <h4 class="card-title text-center">Aplicaciones Móviles</h4>
+                    <h4 class="card-title text-center">Marketing Digital</h4>
                     <!-- Text -->
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <!-- Button -->
