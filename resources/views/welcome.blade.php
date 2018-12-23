@@ -240,7 +240,7 @@
             <h2 class="h1-responsive font-weight-bold text-center my-5">Nuestros <span class="titulo">Servicios</span> </h2>
             <!-- Section description -->
             <p class="lead grey-text text-center w-responsive mx-auto mb-5">
-              Profesionales a su Servicio, tiene Ud. un proyecto en mente? Nosotros somos los indicados para digitalizar sus ideas y proyectos. Probando Laragon
+              Profesionales a su Servicio, tiene Ud. un proyecto en mente? Nosotros somos los indicados para digitalizar sus ideas y proyectos. Probando Laragon jododododo
             </p>
             <div class="row">
               <div class="col-md-4">
